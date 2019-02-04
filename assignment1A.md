@@ -1,29 +1,21 @@
 # My data double
 
-## Facebook
+## Instagram
 
 - Requested: ✅
-- Downloaded: 
-- What I found:
+- Downloaded: ✅
+- What I found: The first thing that I was impressed, is that my instagram data had 3 parts. I thought in the first place that it had divided all of my information into different parts. But then I realized it's just organized that way. I supposed this was the most social network I use and downloading this data was the evidence for that. 
+
+## Spotify
+- Requested: ✅
+- Downloaded: not ready yet
+- What I found: :(
 
 ## Google 'Reservations'
 
 - Requested: ✅
 - Downloaded: ✅
-- What I found: 
-
-
-## Instagram
-
-- Requested: ✅
-- Downloaded: ✅
-- What I found:
-
-
-## Spotify
-- Requested: ✅
-- Downloaded: not ready yet
-- What I found:
+- What I found: I've travelled a lot. 
 
 ## Googlemaps
 
