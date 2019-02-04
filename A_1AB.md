@@ -17,6 +17,13 @@ The data used to make this object is a daily record of anxiety and stress situat
 
 **Source for graphics**: [_Class Site_](http://clases.diatomea.co/RepDatos_15/)
 
+### Acoustic pollution and emotions
+
+The last piece I would like to review is also an accesory data sculpture. In this case, the data collected has to do with acoustic pollution in the areas that the person was inhabiting at a settled time to collect information. Each week of data was made into an earring with beads that hung on them for each day of noise collected. The size and amount of the beads per each earring depended on the numbes collected. The result was that the public could try on the earrings and as you take them out of the stand and wear them, they produce noise. The loudest weeks produce a louder noise than other weeks. Therefore the decibels of loudness that that person heard during the month of collection where transferred directly into someone else's ears. 
+
+![Pollution Earrings](http://clases.diatomea.co/RepDatos_15/wp-content/uploads/2016/10/IMG_7868-1024x683.jpg)
+**Source for graphic**: [_Class Site_](http://clases.diatomea.co/RepDatos_15/)
+
 
 ### Digital Grave Stone
 
@@ -26,13 +33,8 @@ I saw this piece at the Science Gallery in Dublin (Ireland) a couple of years ag
 
 **Source for graphic**: The Verge, [_Reporter-app.com_](https://www.theverge.com/2015/2/23/8089933/quantified-self-after-death-gravestone).
 
+#### Conclusions
+Regarding what I stated on the introduction, I feel that if you are going to design a three dimensional version of your data, it must be justified the use of the space and materiality of the data that is being represented. In some way or another, these three projects achieve this in a very elegant and efficient way. 
 
-### Acoustic pollution and emotions
-
-![Pollution Earrings](http://clases.diatomea.co/RepDatos_15/wp-content/uploads/2016/10/IMG_7868-1024x683.jpg)
-
-**Source for graphic**: [_Class Site_](http://clases.diatomea.co/RepDatos_15/)
-
-1. short summary description of the project, 2. the project's broader significance, and 3. why it is interesting to you. When possible, speak to the project implementation as a way to catalog useful methodologies.
 
 
