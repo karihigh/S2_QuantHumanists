@@ -31,7 +31,7 @@ I saw this piece at the Science Gallery in Dublin (Ireland) a couple of years ag
 
 ![Digital Grave Stone](https://cdn.vox-cdn.com/thumbor/yGngLtPhg95ov_1cLP_dQXhbj2c=/0x79:1024x762/1820x1213/filters:focal(0x79:1024x762):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/45751552/B90E_ohIQAAmsV8.0.0.jpg)
 
-**Source for graphic**: The Verge, [_Reporter-app.com_](https://www.theverge.com/2015/2/23/8089933/quantified-self-after-death-gravestone).
+**Source for graphic**: [_The Verge_](https://www.theverge.com/2015/2/23/8089933/quantified-self-after-death-gravestone).
 
 #### Conclusions
 Regarding what I stated on the introduction, I feel that if you are going to design a three dimensional version of your data, it must be justified the use of the space and materiality of the data that is being represented. In some way or another, these three projects achieve this in a very elegant and efficient way. 
