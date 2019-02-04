@@ -17,11 +17,21 @@
 - Downloaded: ✅
 - What I found: I've travelled a lot. 
 
-## Googlemaps
+## Google Maps
 
 - Requested: ✅
 - Downloaded: 
 - What I found: I was able to review my map activity online and what surprised me the most is the ability to recognize the means of transportation that I used. Also the funny ways that it names your days as in a teenage diary. For example, it says "Tardecita en Parque Bicentenario" which translates directly to "little afternoon" as a cute one. 
+
+## Google Keep
+- Requested: ✅
+- Downloaded: not ready yet
+- What I found: :(
+
+## Google Fit
+- Requested: ✅
+- Downloaded: not ready yet
+- What I found: :(
 
 ## Uber
 
