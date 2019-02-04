@@ -3,7 +3,7 @@ QUANT HUMANISTS <br>
 SPRING 2019 <br> 
 04 02 2019
 
-## Assignment 1: SELF-TRACKING DATA SCULPTURES
+## SELF-TRACKING DATA SCULPTURES
  
 Lastly I've been curious about data sculptures that are getting more and more common among the ways to visualize data. I define a data sculpture as any three-dimensional data visualization, that takes advantage of it's dimensional characteristics. For this review, I will analyse what I believe are good data sculptures. If a work of data visualization could've been done in a poster or on the screen and had the exact same outcomes in the public, then it's considered as bad. On the contrary, a good data sculpture, would be the one that wouldn't work the same as if was a two-dimensional object.
 
