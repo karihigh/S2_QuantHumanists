@@ -3,9 +3,9 @@ QUANT HUMANISTS <br>
 SPRING 2019 <br>
 11 02 2019
 
-### Dear Data
+# Dear Data
 ## Loud noises of New York
-# As heard by *Karina Hyland*
+### As heard by *Karina Hyland*
 
 <p align="center">
   <img src="https://github.com/karihigh/s2_quanthumanists/blob/master/Documentation/deardata1.jpeg?raw=true" align="middle" width="70%">
