@@ -31,7 +31,7 @@ As I was drawing several attempts of the final one I felt the need to transfer t
   <img src="https://github.com/karihigh/s2_quanthumanists/blob/master/Documentation/spreadsheet.png?raw=true" align="middle" width="90%">
 </p>
 
-After a few initial drafts, this is the final result.
+After a few initial drafts, this is the final result.<br>
 I drew a grid for each day as a piece of cake in which the a line is drawn according to the time of the day I heard each noise. I assigned a color for each different sound (ambulance = red, police = blue, passing car with loud music = green). To reveal the location of the data, I decided to divide each record into two main zones, Manhattan and Brooklyn. To express this I drew the line either straight or curly to determine where I was when I heard the sound.
 
 <p align="center">
