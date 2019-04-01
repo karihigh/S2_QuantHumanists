@@ -17,17 +17,17 @@ The increased access to knowledge and technology improvements got us here, where
 
 Memory is fragile, but digital storage is not. A hard disk cannot forget. Unless it is physically destroyed, it is very difficult to permanently delete 0s and 1s. This is a great feature that has lead to many amazing things for society. But what if you want to delete it? In this age of documenting and tracking many aspects of our lives in an invisible way, it is difficult to imagine that our data is physically stored somewhere. The idea of the cloud really feels like a light puffy cloud because we never have to deal with it and people might never imagine that things are actually stored somewhere.
 
-I had the unfortunately chance to experience a Facebook profile of a person who passed away. Before the family could have a chance to take care of all of that minor things and maybe delete the social profile of that person, his feed turned into a sort of shrine where friends and family would post their feelings for "him". First I was very shocked about seeing this, and immediately rejected the idea of doing that. So unnatural and cold and frugal. But this is the same uncomfortable feeling that someone can experience toward death. Even the thought about it makes us feel weird, scared, disgusted and we generally don't want to talk about it. We don't even want to think about the death of our love ones. We can sometimes be selfish when trying to preserve someone's life. See [Uninvited Guests](https://vimeo.com/128873380).
-
-This is easily seen among pet owners. Animals have the great advantage to have their caretakers decide if they should keep living. 
-
-
-
-Doing these research led me to question our rights
-
 <p align="center">
   <img src="http://datacentervoice.com/wp-content/uploads/2015/10/data-center.jpg" align="middle" width="100%">
 </p>
+
+This is easily seen among pet owners. Animals have the great advantage to have their caretakers decide if they should keep living and euthanasia is legal and culturally accepted. But when it comes to humans, there are few cases when family members or even a sick person can decide to voluntarily end their lives. This is called voluntary euthanasia or assisted suicide. It relates to the Right to Die that has been discussed a long ago by philosophers til today.
+
+How does the Right to Die operates on the digital layer?
+
+I had the unfortunate chance to experience a Facebook profile of a person who passed away. Before the family could have a chance to take care of all of that minor things and maybe delete the social profile of that person, his feed turned into a sort of shrine where friends and family would post their feelings for "him". First I was very shocked about seeing this, and immediately rejected the idea of doing that. So unnatural and cold and frugal. But this is the same uncomfortable feeling that someone can experience toward death. Even the thought about it makes us feel weird, scared, disgusted and we generally don't want to talk about it. We don't even want to think about the death of our love ones. We can sometimes be selfish when trying to preserve someone's life. See [Uninvited Guests](https://vimeo.com/128873380).
+
+Finally this led me to read about the Right to be Forgotten. I would like to rise all of these thoughts by a service that could get as closer to exercise this right. There are many obstacles about this as a moral decision and competes directly with the Right of Freedom. What if Hitler decides to be forgotten? Would that be morally correct? 
 
 **Moodboard**
 
