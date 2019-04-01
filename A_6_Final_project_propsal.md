@@ -12,7 +12,13 @@ I'm not saying that tracking some aspect of your life can't be a benefit. It cer
 
 The urge to survive is inherent to any human being, thus medical advance has lead to the increase of human longevity. Nowadays some can easily reach one hundred years of life, and those extreme cases are thoroughly studied in order to know what did that person through their lives in order to blow the 100 birthday candle. They had wine every of their lives, they where great hitchhikers, they worked a lot, they didn't work at all, they practiced yoga and meditate, they traveled, they found love, and so on. Fashions on what to do or not do are constantly changing. Specially in these times when connectivity allow us to have information on almost anything we can imagine.
 
-The increased access to knowledge and technology improvements got us here, where your watch can help you reach a healthy happy 100th birthday. But also, death comes sometimes unexpected. Even the most healthy active person on your social media can die at any moment. [WeCroak](https://www.wecroak.com/) app reminds us about this fact 5 times a day in order find happiness as they put it. How do we defeat death? We can't, but there are some ways to keep us alive. Following the saying: "Write a book, plant a tree, raise a child", there is human urge to transcend. All of these actions are ways of leaving an immortal footprint behind so that we will be remembered. One does not die if there are living people that can [remember you](https://www.youtube.com/watch?v=cgmgZmTMxms). 
+The increased access to knowledge and technology improvements got us here, where your watch can help you reach a healthy happy 100th birthday. But also, death comes sometimes unexpected. Even the most healthy active person on your social media can die at any moment. [WeCroak](https://www.wecroak.com/) app reminds us about this fact 5 times a day in order find happiness as they put it. How do we defeat death? We can't, but there are some ways to keep us alive. Following the saying: "Write a book, plant a tree, raise a child", there is human urge to transcend. All of these actions are ways of leaving an immortal footprint behind so that we will be remembered. One does not die if there are still living people that can [remember you](https://www.youtube.com/watch?v=cgmgZmTMxms).
+
+Memory is fragile, but digital storage is not. A hard disk cannot forget. Unless it is physically destroyed, it is very difficult to permanently delete 0s and 1s. This is a great feature that has lead to many amazing things for society. But what if you want to delete it? In this age of documenting and tracking many aspects of our lives in an invisible way, it is difficult to imagine that our data is physically stored somewhere. The idea of the cloud really feels like a light puffy cloud because we never have to deal with it. 
+
+<p align="center">
+  <img src="http://datacentervoice.com/wp-content/uploads/2015/10/data-center.jpg" align="middle" width="100%">
+</p>
 
 
 So all of these ways of pursuing healthy happiness by measuring aspects of our life connects back with the fact that humans use intelligence and consciousness of this to expand their capabilities. And this is usually done by external means. Want to reach something high? Build ladders. Want to travel faster? Build planes. Want to think faster? Synthesize Adderall.
@@ -30,17 +36,3 @@ Sketches
 
 
  [Slides](https://docs.google.com/presentation/d/1SaI60Q1pQLw6FL0BEtB2pglWjStnOzwjRvbB16gi7Eg/edit?usp=sharing).
-
-
-<p align="center">
-  <img src="https://github.com/karihigh/s2_quanthumanists/blob/master/Documentation/ownersalutes3.png?raw=true" align="middle" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/karihigh/s2_quanthumanists/blob/master/Documentation/ownersalutes1.png?raw=true" align="middle" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/karihigh/s2_quanthumanists/blob/master/Documentation/ownersalutes2.png?raw=true" align="middle" width="100%">
-</p>
